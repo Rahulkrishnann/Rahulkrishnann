@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br />
-  <a href="![snake gif] (https://github.com/Rahulkrishnann/Rahulkrishnann/blob/output/github-contribution-grid-snake.gif)"/></a>
+  ![snake gif] (https://github.com/Rahulkrishnann/Rahulkrishnann/blob/output/github-contribution-grid-snake.gif)
   <br />
 </div>
 
