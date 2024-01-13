@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  ![snake gif] (https://github.com/Rahulkrishnann/Rahulkrishnann/blob/output/github-contribution-grid-snake.gif)
+  <br![snake gif] (https://github.com/Rahulkrishnann/Rahulkrishnann/blob/output/github-contribution-grid-snake.gif) />
 </div>
 
 <hr/>
@@ -63,6 +63,6 @@
 <hr/>
 
 <br/>
-![snake gif] (https://github.com/Rahulkrishnann/Rahulkrishnann/blob/output/github-contribution-grid-snake.gif)
+
 
 <br/>
