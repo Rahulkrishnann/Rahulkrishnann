@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AstraZeneca**
+ 🔭 I’m currently working at **AstraZeneca**
  
  🌱 I’m currently learning **AWS,**
 
